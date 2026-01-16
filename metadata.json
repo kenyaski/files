@@ -1,0 +1,8 @@
+{
+  "name": "NNP-GPT Student Ai",
+  "description": "A premium academic tool for Nyeri National Polytechnic students, featuring AI-powered knowledge management, smart citations, and usage controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
